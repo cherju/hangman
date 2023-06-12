@@ -1,2 +1,2 @@
 # hangman
- simple game
+ simple game for learning Python
